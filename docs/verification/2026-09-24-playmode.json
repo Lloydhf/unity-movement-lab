@@ -1,0 +1,84 @@
+{
+  "verified_at_utc": "2026-09-24 11:01:45Z",
+  "editor": "6000.3.24f1",
+  "mode": "PlayMode, batchmode, nographics",
+  "result": "Passed",
+  "total": 18,
+  "passed": 18,
+  "failed": 0,
+  "note": "Rerun on a clean source clone for the 24 September 2026 GitHub update. Technical tests, not participant research or a rendered visual inspection.",
+  "tests": [
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.CompletedFirstRoom_ContinueStartsDoubleRelayWithoutAnotherIntroduction",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.DoubleRelay_RequiresBothCircuits_AndResetsBothAfterCompletion",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.FallingPlayer_RequestsFullRoomRestart_IncludingCapturedBall",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.FirstContact_MagnetPowersGate_AndRestartRestoresEntireRoom",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.KeyboardMovement_WalksStopsAndJumps_WithoutAnExtraAirJump",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.PausedRoom_DoesNotAdvancePhysics_AndResumesCapture",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.RelayRoomPlayModeTests.UnpoweredRoom_CannotComplete_EvenWhenPlayerIsAtExit",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.CompletedFirstRoom_ContinueStartsSecondRoom",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.EscapePausesRobotPhysics_AndResumesThroughSameKey",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.FallRespawn_PreservesPistonsGatesBridgeAndBrokenPanels_FullRestartClearsThem",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.FirstShift_PhysicalKeyboardRoute_CompletesWithoutTeleportOrRespawn",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.FragileSurface_HeavySideContactDoesNotBreakIt",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.FragileSurface_SupportsLightRobot_BreaksUnderHeavyRobot_AndResets",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.Piston_RequiresHeavyGroundedNearbyRobot_AndStaysLatchedAfterLeaving",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.PrepareTheWay_PhysicalEarlyDropRoute_RecoversWithoutResetAndPreservesP2",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.PrepareTheWay_PhysicalPreparedRoute_OpensBridgeBeforeDropping",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.SecondRoom_RequiresBothPistonsAndPhysicalExitProximity",
+      "result": "Passed"
+    },
+    {
+      "name": "PortfolioLab.Tests.ShiftGamePlayModeTests.Station_RequiresNearbyGroundedRobot_AndChangesItsMode",
+      "result": "Passed"
+    }
+  ]
+}

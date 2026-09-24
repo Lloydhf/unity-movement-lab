@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/05_ShiftFirstShift.unity
+    guid: a7d54e1947fe79e46a37c894de7e5bfa
+  - enabled: 1
+    path: Assets/Scenes/06_ShiftPrepareTheWay.unity
+    guid: b6ed0acae3d1a144d983eeb4aa6c6f56
+  - enabled: 1
+    path: Assets/Scenes/03_FirstContact.unity
+    guid: 4c92107d712408a48bdda6f33d3726ff
+  - enabled: 1
+    path: Assets/Scenes/04_DoubleRelay.unity
+    guid: e5863b01a858b33498f5b182c2d85726
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

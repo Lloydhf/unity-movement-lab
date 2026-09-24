@@ -16,3 +16,4 @@
 *.unityproj
 *.opendb
 *.VC.db
+.vsconfig
